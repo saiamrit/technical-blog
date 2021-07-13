@@ -14,7 +14,7 @@
     
         ,"post1": {
             "title": "Imports check",
-            "content": "# importing pytorch and torch vision import torch import torchvision # importing neural network lib for neural network functionality import torch.nn as nn import torch.nn.functional as F # import dataset necessary libs from torchvision import datasets, transforms # importing numpy and plotter library import numpy as np import matplotlib.pyplot as plt .",
+            "content": "# importing pytorch and torch vision import torch import torchvision # importing neural network lib for neural network functionality import torch.nn as nn import torch.nn.functional as F # import dataset necessary libs from torchvision import datasets, transforms # importing numpy and plotter library import numpy as np import matplotlib.pyplot as plt . .",
             "url": "https://saiamrit.github.io/technical-blog/2021/07/06/imports.html",
             "relUrl": "/2021/07/06/imports.html",
             "date": " • Jul 6, 2021"
