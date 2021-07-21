@@ -3,8 +3,10 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-
-![](https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/prof_pic.jpg)
+<p align="right" width="100%">
+    <img width="30%" src="https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/prof_pic.jpg"> 
+</p>
+<!-- ![](https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/prof_pic.jpg) -->
 
 Hi! 
 I’m currently an M.S. (Research, Computer Science) student at IIIT Hyderabad. Until recently, I was working as a Research Associate at Centre for Visual Information and Technology (CVIT), working on Face Biometrics using Computer Vision and Deep Learning.
