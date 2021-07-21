@@ -7,7 +7,9 @@ M.S by Research, IIIT Hyderabad
 
 :------------------------------------------------------------------------:|:----------------------------------------------------------------------------:
 Hi! 
-I’m currently an M.S. (Research, Computer Science) student at IIIT        | <p align="right" width="50%"> <img width="30%" height="30%"src="https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/prof_pic.jpg">  </p>
+I’m currently an M.S. (Research, Computer Science) student at IIIT        | <p align="right" width="50%"> 
+                                                                          |       <img width="30%" height="30%"src="https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/prof_pic.jpg"> 
+                                                                          | </p>
 Hyderabad. Until recently, I was working as a Research Associate at       |
 Centre for Visual Information and Technology (CVIT), working on Face      |
 Biometrics using Computer Vision and Deep Learning.                       |
