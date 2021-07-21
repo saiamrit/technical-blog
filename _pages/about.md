@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Sai Amrit Patnaik
-description: M.S by Research, IIIT Hyderabad
 permalink: /about/
 ---
-<p align="right" width="30%">
-    <img width="30%" height="30%" src="https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/prof_pic.jpg"> 
+M.S by Research, IIIT Hyderabad
+<p align="right" width="100%">
+    <img src="https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/prof_pic.jpg" style="height: 100px; width:100px;"/>
+<!--     <img width="30%" height="30%" src="https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/prof_pic.jpg">  -->
 </p>
 <!-- ![](https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/prof_pic.jpg) -->
 
