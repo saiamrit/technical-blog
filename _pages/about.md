@@ -5,7 +5,7 @@ permalink: /about/
 ---
 M.S by Research, IIIT Hyderabad
 
-<img src="https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/prof_pic.jpg" style="height: 50px; width:50px;"/>
+<img src="https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/prof_pic.jpg" style="height: 800px; width:500px;"/>
 <!-- <p align="right" width="50%">
     <img src="https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/prof_pic.jpg" style="height: 100px; width:100px;"/>
 <!--     <img src="https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/prof_pic.jpg" style="height: 50px; width:50px;"/> -->
