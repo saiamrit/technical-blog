@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About Me
+title: Sai Amrit Patnaik
+description: M.S by Research, IIIT Hyderabad
 permalink: /about/
 ---
 <p align="right" width="30%">
