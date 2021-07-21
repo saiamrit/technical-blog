@@ -3,8 +3,8 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-<p align="right" width="100%">
-    <img width="30%" src="https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/prof_pic.jpg"> 
+<p align="right" width="30%">
+    <img width="30%" height="30%" src="https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/prof_pic.jpg"> 
 </p>
 <!-- ![](https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/prof_pic.jpg) -->
 
