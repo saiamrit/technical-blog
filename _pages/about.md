@@ -6,7 +6,7 @@ permalink: /about/
 
 M.S by Research, IIIT Hyderabad
 
-<img src="https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/prof_pic.jpg" style="height: 400px; width:300px;"/>
+<img src="https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/prof_pic.jpg" style="height: 400px; width:350px;"/>
 
 Hi! 
 I’m currently an M.S. (Research, Computer Science) student at IIIT Hyderabad. Until recently, I was working as a Research Associate at Centre for Visual Information and Technology (CVIT), working on Face Biometrics using Computer Vision and Deep Learning.
