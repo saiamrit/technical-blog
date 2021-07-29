@@ -98,7 +98,7 @@ Though the probability distribution has changed, we still use 3 bits to transfer
 Now the entropy of this distribution will be,
 
 
-$$ E = -{ 0.35 x log(0.35) + 0.35 x log(0.35)+ 0.1 x log(0.1) + 0.1 x log(0.1) + 0.04 x log(0.04) + 0.04 x log(0.04) + 0.01 x log(0.01) + 0.01 x log(0.01)} = 2.23 \text{ bits} $$ \\
+$$ E = -{ 0.35 \times log(0.35) + 0.35 \times log(0.35)+ 0.1 \times log(0.1) + 0.1 \times log(0.1) + 0.04 \times log(0.04) + 0.04 \times log(0.04) + 0.01 \times log(0.01) + 0.01 \times log(0.01)} = 2.23 \text{ bits} $$ 
 which is the minimum number of useful bits transmitted, and entropy of the system.
 
 So though we are sending 3 bits of information, the user gets 2.23 useful bits. This can be improved by changing the no. of bits used to address each kind of information. Suppose we use a following distribution :
