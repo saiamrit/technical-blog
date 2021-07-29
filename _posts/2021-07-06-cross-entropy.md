@@ -30,7 +30,7 @@ Let’s understand the two terms by looking into an example.
 Suppose that we need to share the weather information of a place with another friend who stays in a different city, and the weather has a 50–50 chance of being sunny or rainy every day.
 
 <p align="center" width="100%">
-    <img width="100%" src="https://saiamrit.github.io/technical-blog/assets/img/2021-05-12-Cross-Entropy-Demistified/media/image4.png"> 
+    <img width="100%" src="https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/cross_entropy_1.jpg"> 
 </p>
 
 This information can be transmitted using just a single bit (0 or 1) and the uncertainty associated with this event is 2 as there are 2 possibilities, either weather is sunny or rainy.
@@ -50,7 +50,7 @@ Here, as uncertainty for weather being rainy or sunny is 2, the minimum no. of u
 Now suppose that the event “Weather” had 8 possibilities, all equally likely with $$12.5\%$$ probability of occurrence of each.
 
 <p align="center" width="100%">
-    <img width="100%" src="https://saiamrit.github.io/technical-blog/assets/img/2021-05-12-Cross-Entropy-Demistified/media/image7.png"> 
+    <img width="100%" src="https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/cross_entropy_2.png"> 
 </p>
 
 So now as the no. of uncertainties is 8, the minimum no. of useful bits required to transfer information about each event can be calculated as $$log(8) = 3$$
@@ -58,7 +58,7 @@ So now as the no. of uncertainties is 8, the minimum no. of useful bits required
 Let us consider a case which is similar to the 1st case that we saw with 2 possibilities, sunny or rainy, but now both are not equally likely. One occurs with a probability of $$75\%$$ and the other with a probability of $$25\%$$.
 
 <p align="center" width="100%">
-    <img width="100%" src="https://saiamrit.github.io/technical-blog/assets/img/2021-05-12-Cross-Entropy-Demistified/media/image1.png"> 
+    <img width="100%" src="https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/cross_entropy_3.png"> 
 </p>
 
 Now the events are not occuring with equal probabilities, so the uncertainties for the events will be different. the uncertainty of the weather being rainy is $$ \frac{1}{0.25} = 4 $$ and for the weather being sunny is $$ \frac{1}{0.75} = 1.33 $$
@@ -84,13 +84,13 @@ $$\boxed{Entropy : H(p) = - \sum_{n=1}^{n}{p_i \times log(p_i)}}$$
 **Cross entropy is the average message length that is used to transmit the message.**
 
 <p align="center" width="100%">
-    <img width="100%" src="https://saiamrit.github.io/technical-blog/assets/img/2021-05-12-Cross-Entropy-Demistified/media/image6.png"> 
+    <img width="100%" src="https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/cross_entropy_4.png"> 
 </p>
 
 In this example, there are 8 variations all equally likely. So the entropy of this system is 3, but suppose that the probability distribution changes with probabilities something like this :
 
 <p align="center" width="100%">
-    <img width="100%" src="https://saiamrit.github.io/technical-blog/assets/img/2021-05-12-Cross-Entropy-Demistified/media/image5.png"> 
+    <img width="100%" src="https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/cross_entropy_5.png"> 
 </p>
 
 Though the probability distribution has changed, we still use 3 bits to transfer this information.
@@ -98,13 +98,13 @@ Though the probability distribution has changed, we still use 3 bits to transfer
 Now the entropy of this distribution will be,
 
 
-E = -{ 0.35 x log(0.35) + 0.35 x log(0.35)+ 0.1 x log(0.1) + 0.1 x log(0.1) + 0.04 x log(0.04) + 0.04 x log(0.04) + 0.01 x log(0.01) + 0.01 x log(0.01)} = 2.23 bits \\
+$$ E = -{ 0.35 x log(0.35) + 0.35 x log(0.35)+ 0.1 x log(0.1) + 0.1 x log(0.1) + 0.04 x log(0.04) + 0.04 x log(0.04) + 0.01 x log(0.01) + 0.01 x log(0.01)} = 2.23 \text{ bits} $$ \\
 which is the minimum number of useful bits transmitted, and entropy of the system.
 
 So though we are sending 3 bits of information, the user gets 2.23 useful bits. This can be improved by changing the no. of bits used to address each kind of information. Suppose we use a following distribution :
 
 <p align="center" width="100%">
-    <img width="100%" src="https://saiamrit.github.io/technical-blog/assets/img/2021-05-12-Cross-Entropy-Demistified/media/image8.png"> 
+    <img width="100%" src="https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/cross_entropy_6.png"> 
 </p>
 
 
@@ -115,7 +115,7 @@ $$ CE = 0.35 \times 2 + 0.35 \times 2 + 0.1 \times 3 + 0.1 \times 3 + 0.04 \time
 But suppose the same bit pattern is used for a different probability distribution :
 
 <p align="center" width="100%">
-    <img width="100%" src="https://saiamrit.github.io/technical-blog/assets/img/2021-05-12-Cross-Entropy-Demistified/media/image10.png"> 
+    <img width="100%" src="https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/cross_entropy_7.png"> 
 </p>
 
 
@@ -126,7 +126,7 @@ This happens because the bit code we are using is making some implicit estimatio
 $$ \boxed{p = \left(\frac{1}{2^{\text{no. of bits}}}\right)} $$
 
 <p align="center" width="100%">
-    <img width="100%" src="https://saiamrit.github.io/technical-blog/assets/img/2021-05-12-Cross-Entropy-Demistified/media/image3.png"> 
+    <img width="100%" src="https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/cross_entropy_8.png"> 
 </p>
 
 
