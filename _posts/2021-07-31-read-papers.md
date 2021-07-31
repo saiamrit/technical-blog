@@ -4,8 +4,10 @@ title: How to read Machine Learning and Deep Learning Research papers
 date: 2021-07-31 15:09:00
 toc: true
 image: images/read_papers_thumb.png
+categories: [research, reading_papers]
+badges: true
 description: Tips on preparing Literature survey of a field and how to read a ML / DL research papers
-comments: true
+comments: false
 ---
 
 ## Introduction
