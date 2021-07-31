@@ -2,6 +2,7 @@
 layout: post
 title: How to read Machine Learning and Deep Learning Research papers
 date: 2021-07-31 15:09:00
+toc: true
 description: Tips on preparing Literature survey of a field and how to read a ML / DL research papers
 comments: true
 ---
