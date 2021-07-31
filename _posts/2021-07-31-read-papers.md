@@ -6,6 +6,7 @@ toc: true
 image: images/read_papers_thumb.png
 categories: [research, reading_papers]
 badges: true
+author: Sai Amrit Patnaik
 description: Tips on preparing Literature survey of a field and how to read a ML / DL research papers
 comments: true
 ---
