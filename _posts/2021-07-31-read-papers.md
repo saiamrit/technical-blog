@@ -46,7 +46,6 @@ Quoting **[Dr. Jennifer Raff](https://anthropology.ku.edu/jennifer-raff)**
 ## Why to read research Papers
 
  - **To have a better grasp and understanding of the field:** For a particular field, there may be a lot of video lectures and books but with the rate at which the field has been growing, no book or video lecture can accomodate the latest information as soon as they get published. So research papers provide the most updated and reliable information in the field.
- 
  - **To be able to contribute to the field in terms of novel ideas:** When we start working in a field, the first thing that we are advised to do is to do an extensive literature survey, going through all of the latest papers that have come up in the field till date. That is advised because we can have a very good understanding of the directions of works in the field and how the people actively working in the field are thinking. Only then we can start coming up with our own ideas to experiment upon.
  -  **To develop confidence in the field:** Once we start learning about the latest works in the field and we start to develop a good understanding by performing a extensive literature survey, we start developing more confidence to perform more experiments and exploring deeper in the field.
  -  **Most condensed and authentic source of latest knowledge in the field:** A reseach paper comes out of days and months, or some times even years of brainstorming of ideas, performing extensive experiments and validating the expected outcomes. The condensed experiments and thoughts is what is best expressed in a research paper that the authors write. Any new content that comes in the field in terms of state-of-the-art works is through research papers. Research papers are the source through which works that push the limits of knowledge in a field come up.
@@ -59,10 +58,8 @@ Now that we have attained enough motivations as to why we should read research p
 ## Literature survey of a domain
 
 The basic steps to perform literature survey in a field are the following:
- 1.  Assemble collections of resources in the form of research papers, Medium articles, blog posts, videos, GitHub repository etc.
-    
-2.  Conduct a deep dive to classify the relevant and irrelevant material.
-    
+1.  Assemble collections of resources in the form of research papers, Medium articles, blog posts, videos, GitHub repository etc.   
+2.  Conduct a deep dive to classify the relevant and irrelevant material.    
 3.  Take structured notes that summarises the key discoveries, findings and techniques within a paper.
 
 We shall take Pose Estimation as a example domain and understand each step.
@@ -70,18 +67,12 @@ We shall take Pose Estimation as a example domain and understand each step.
 First of all we collect all the resources in the form of blog posts, github repositories, medium articles and research papers available in the field, for our case it's pose estimation. The important question here is, **where can we find relevant resources in the field ?**
 
 Following are sources where we can find the latest papers and resources:
--   [Twitter](https://twitter.com/AndrewYNg?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor): We can follow top researchers, groups and labs actively working and publishing in our field of domain and be updated with what they are currently working on.
-    
--   [ML subreddit](https://www.reddit.com/r/MachineLearning/)
-    
--   [arXiv](https://arxiv.org/): Platform where almost all of the papers be it accepted to a conference or not, are uploaded.
-    
--   [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/): Created by [Anderj Karpathy](https://twitter.com/karpathy?lang=en) which used ML techniques to suggest relevant papers based on previous searches and interests.
-    
--   [Papers With Code](https://paperswithcode.com/): Redirects to the paper's abstract page on arXiv, open source implementation of the papers along with links to datasets used and a lot of other analysis and meta information like the current state-of-the art method, comparision of performance of all previous methods in the field e.t.c.
-    
--   Top ML, DL Conferences ([CVPR](https://openaccess.thecvf.com/menu), [ICCV](https://openaccess.thecvf.com/menu), [NeurIPS](https://nips.cc/), [ICML](https://icml.cc/), [ICLR](https://iclr.cc/) etc): Proceedings of the following conferences are a great place to look for latest accepted works in the domains accepted by the conference.
-    
+-   [Twitter](https://twitter.com/AndrewYNg?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor): We can follow top researchers, groups and labs actively working and publishing in our field of domain and be updated with what they are currently working on.    
+-   [ML subreddit](https://www.reddit.com/r/MachineLearning/)    
+-   [arXiv](https://arxiv.org/): Platform where almost all of the papers be it accepted to a conference or not, are uploaded.   
+-   [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/): Created by [Anderj Karpathy](https://twitter.com/karpathy?lang=en) which used ML techniques to suggest relevant papers based on previous searches and interests.   
+-   [Papers With Code](https://paperswithcode.com/): Redirects to the paper's abstract page on arXiv, open source implementation of the papers along with links to datasets used and a lot of other analysis and meta information like the current state-of-the art method, comparision of performance of all previous methods in the field e.t.c.   
+-   Top ML, DL Conferences ([CVPR](https://openaccess.thecvf.com/menu), [ICCV](https://openaccess.thecvf.com/menu), [NeurIPS](https://nips.cc/), [ICML](https://icml.cc/), [ICLR](https://iclr.cc/) etc): Proceedings of the following conferences are a great place to look for latest accepted works in the domains accepted by the conference.    
 -   [Google Search](http://www.google.com)
 
 Once listed down all the papers that we wish to look at and all resources we could find be it relevant or irrelevant, a table of this format shown in figure 3 can be prepared and in the first column, all the resources collected can be listed down.
@@ -123,22 +114,14 @@ You can use your own ways of making yourself comfortable with the content and ta
 
 The majority of papers follow, more or less, the same convention of organization:
 
- 1. **Title:** Hopefully catchy ! Includes additional info about the authors and their institutions.
-    
-2.  **Abstract:** High level summary of the entire work of the paper.
-    
-3.  **Introduction:** Background info on the field and related research leading up to this paper.
-    
-4.  **Related works:** Describe the already existing literature on the particular domain.
-    
-5.  **Methods:** Highly detailed section on the study that was conducted, how it was set up, any instruments used, and finally, the process and workflow.
-    
-6.  **Results:** Authors talk about the data that was created or collected, it should read as an unbiased account of what occurred.
-    
-7.  **Discussions:** Here is where authors interpret the results, and convince the readers of their findings and hypothesis.
-    
-8.  **References:** Any other work that was cited in the body of the text will show up here.
-    
+1. **Title:** Hopefully catchy ! Includes additional info about the authors and their institutions.   
+2.  **Abstract:** High level summary of the entire work of the paper.    
+3.  **Introduction:** Background info on the field and related research leading up to this paper.    
+4.  **Related works:** Describe the already existing literature on the particular domain.    
+5.  **Methods:** Highly detailed section on the study that was conducted, how it was set up, any instruments used, and finally, the process and workflow.    
+6.  **Results:** Authors talk about the data that was created or collected, it should read as an unbiased account of what occurred.    
+7.  **Discussions:** Here is where authors interpret the results, and convince the readers of their findings and hypothesis.    
+8.  **References:** Any other work that was cited in the body of the text will show up here.    
 9.  **Appendix:** More figures, additional treatments on related math, or extra items of interest can find their way in an appendix.
 
 Finally coming to the most awaited section of the blogpost ! 
@@ -169,37 +152,24 @@ The reviewers then read the introduction section as it should explain the proble
 After validating that the assumed propositions have been validated successfully, the method section is seen in detail to see what approach was taken to acheive the goal. In the discussion section, the experiments are explained as to why exactly the proposed method works. This is basically how a reviewer reads a paper and it is the same approach that is to be taken by a reader like us to read a paper. 
 
 ## 3 pass approach to read a research paper
-
 A 3 pass approach is taken to read research papers. The content covered in each passes is in sync with the discussion on the review procedure from last section. Following are the 3 passes:
  1. **First Pass:** Read the title, abstract, subsection titles and glance the figures and figure captions.
 	 - Should be able to answer the five C’s (Category, Context, Correctness,  Contribution, Clarity)
-
-2. **Second Pass:** Read the Introduction, Conclusion and rest figures and skim rest of the sections(ignoring the details such as mathematical derivations proofs e.t.c.).
-    
+2. **Second Pass:** Read the Introduction, Conclusion and rest figures and skim rest of the sections(ignoring the details such as mathematical derivations proofs e.t.c.). 
 3.  **Third Pass:** Reading the entire paper with an intention to reimplement it.
 
 Lets go into detail of each section.
 ### First pass
 The main intension in the first pass is to understand the overall gist of the paper and have a bird’s eye view of the paper. The intension is to get into the authors intent about the problem statement and his thought process to develop a solution to it. The major sections which should be focused in this pass are the Abstract and the summarising figure and extract the beat possible information of the problem statemant the paper is addressing, solution and the method. The following points are what we cover in the first pass:
-
 -   Read through the Title, abstract and the summarising figure.
 -    Skip all other details of the paper.   
--    Glance at the paper and understand its overall structure.
-    
--   **Try to answer the 5 Cs**: After the first pass, we should be able to answer the folling 5 things about a paper:
-    
-
-	1.  **Category**: Which category of paper is it, whether its an architecture paper, or a new training strategy, or a new loss function ar is it a review paper e.t.c.
-    
-	2.  **Context**: What previous works and area does it relate to. E.g - while Reading the DenseNet paper, it falls in the context of architectural papers and it falls into the resnet kind of networks architecture context. 
-    
-	3.  **Correctness**: How correct and valid is the problem statement that the problem is addressing and how correct does the proposed solution sound. Honesty this can't be totally jugded from just the first pass completely as a complete answer and unserstanding of correctness would need looking at the conclusion section, but try to judge as best to your knowledge about the correctness.
-    
-	4.  **Contribution**: What exactly is the contribution of the paper to the community. Eg - the resnet paper contributed the resisual block and skip connection architecture. 
-    
+-    Glance at the paper and understand its overall structure.  
+-   **Try to answer the 5 Cs**: After the first pass, we should be able to answer the folling 5 things about a paper:    
+	1.  **Category**: Which category of paper is it, whether its an architecture paper, or a new training strategy, or a new loss function ar is it a review paper e.t.c.   
+	2.  **Context**: What previous works and area does it relate to. E.g - while Reading the DenseNet paper, it falls in the context of architectural papers and it falls into the resnet kind of networks architecture context.    
+	3.  **Correctness**: How correct and valid is the problem statement that the problem is addressing and how correct does the proposed solution sound. Honesty this can't be totally jugded from just the first pass completely as a complete answer and unserstanding of correctness would need looking at the conclusion section, but try to judge as best to your knowledge about the correctness.    
+	4.  **Contribution**: What exactly is the contribution of the paper to the community. Eg - the resnet paper contributed the resisual block and skip connection architecture.     
 	5.  **Clarity**: How clearly does the abstract explain the problem statement and their approach towards it.
-    
-
 -   Based on our understanding of first pass, we decide weather to go forward or stop with the paper for a detailed study into further passes.
 
 
@@ -211,17 +181,11 @@ While discussing about literature survey, I mentioned about the 10% study on eac
 ### Second Pass
 
 After getting an overall gist of the paper after the first pass, we headon to the 2nd pass of the paper. The main intention of this section is to understand the paper in a litle more detail in terms of understanding the problemstatement in detail, validating if the paper validates the propositions it made to solve, understand the method in detail and understand the experiments well through the discussion section. The following is what we do in a 2nd pass:
-
--   Reading more in depth through the Introduction, conclusion and other figures.
-    
--   Literature survey, Mathematical derivations, proofs etc and any thing that seems complicated and needs extended study from the references or other resources are skipped.
-    
+-   Reading more in depth through the Introduction, conclusion and other figures.    
+-   Literature survey, Mathematical derivations, proofs etc and any thing that seems complicated and needs extended study from the references or other resources are skipped.   
 -   Understand the other figures in the paper properly, develop intuition about the tables, charts and analysis presented. These figures contain a lot of latent information and explain a lot more things. so it is important to extract the maximum understanding from the figures 
-    
--   Discuss the gist of the paper and main contents with a friend or colleague.
-    
+-   Discuss the gist of the paper and main contents with a friend or colleague.   
 -   Mark relevant references that may be required to be revisited later.
-
 -   Decide weather to go forward or stop based on this pass.
 
 
@@ -230,21 +194,13 @@ After getting an overall gist of the paper after the first pass, we headon to th
 
  After the 2nd pass, we have a good understanding of the paper in terms of the method of the paper, experiments and conclusions out of them. Depending on understanding from it, we go on to the next pass.
 ### Third Pass
-
 After getting a more indepth understanding of the paper after a second pass, we go on to the final pass of reading which is the most detailed pass over the paper. This pass is only for papers which are most important for the research objective and are directly related to the objective we are working on. Following are the key points for a third pass:
-
--   Reading with an intention to reimplement the paper.
-    
--   Consider every minor assumption and details and make note of it.
-    
+-   Reading with an intention to reimplement the paper. 
+-   Consider every minor assumption and details and make note of it.  
 -   Recreate the exact work as in the paper and compare it with original work
-    
--   Identify, question and Challenge every assumption in the paper.
-    
--   Make a flow chart of the entire process considering each step.
-    
+-   Identify, question and Challenge every assumption in the paper.   
+-   Make a flow chart of the entire process considering each step.   
 -   Try deriving the mathematical derivations from scratch.
-    
 -   Start looking at the code implementation of various components if an open source implementation is available else try to implement it.
     
 After a third pass, we should be knowing the paper inside out including every minor assumption and detail in it along with a clear understanding of the implementation and good understanding of the hyperparameters of each experiment perform and presented in the paper. After all the passes we can claim to have a clear understanding of the research paper.
@@ -254,20 +210,15 @@ To validate our understanding of the paper, there are a few generic question we 
 ## **Important Questions to answer**
 
 -   **What problems statement does the paper address?** 
-	- Answer to this can be found in brief in the abstract section and in detail in the Introduction section.
-    
+	- Answer to this can be found in brief in the abstract section and in detail in the Introduction section.  
 -   **Is the problem statement a relevant one?** 
-	- self assessment of the problem statement.
-    
+	- self assessment of the problem statement.   
 -   **What do the authors of the paper aim to accomplish, or perhaps want to achieve?**
-	- Answer to this can be found from the Introduction section.
-    
+	- Answer to this can be found from the Introduction section.    
 -   **If a new approach/technique/method was introduced in a paper, what are the key elements of the newly proposed approach?**
 	- Answer to this can be found from the Introduction section section in the contributions section and also the methoda section.
-
 - **What is the main approach in the paper, what experiments have the authors performed and how well do the experiments results validate the conclusions?**
-	- Answer to this is the entire method sections and discussions section.	
-    
+	- Answer to this is the entire method sections and discussions section.	   
 -   **What are the main conclusions of the paper?**
 	- Answer to this is the entire conclusion section.	
 - **A few personal questions**:
@@ -282,4 +233,27 @@ Being able to answer all these question to the ebst of our understanding and abi
 > Tip: Nothing teaches better than implementing the entire thing from scratch and experimenting and comparing the results with original results.  Even if a open source implementation is available, experimentation with the opensource code and coming up with own tweeks to the code, running different hyperparameters can improve our understanding a lot.
 
 ## Conclusion
+> Finishing with a important note that reading papers is a skill that can be learnt with consistency over a long period of time. It is not a sprint but a  marathon and demands lot of patience and consistency. 
 
+I hope I have been able to justify the title of the blog post and explain everything in detail about how to do literature survey of a domain and how to read an ML / DL research paper. Incase I missed out on anything or you have any other comments, reach me out [@SaiAmritPatnaik](https://twitter.com/SaiAmritPatnaik)
+
+Thank you !
+
+## References
+
+1. Andrew Ng's lecture in CS230 on how to read research papers
+2. S. Keshav's paper on how to read research papers
+3. https://towardsdatascience.com/how-you-should-read-research-papers-according-to-andrew-ng-stanford-deep-learning-lectures-98ecbd3ccfb3
+4. https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6Finishing with a important note that reading papers is a skill that can be learnt with consistency over a long period of time. It is not a sprint but a  marathon and demands lot of patience and consistency. 
+
+I hope I have been able to justify the title of the blog post and explain everything in detail about how to do literature survey of a domain and how to read an ML / DL research paper. Incase I missed out on anything or you have any other comments, reach me out [@SaiAmritPatnaik](https://twitter.com/SaiAmritPatnaik)
+
+Thank you !
+
+## References
+
+1. [Andrew Ng's lecture in CS230 on how to read research papers](https://www.youtube.com/watch?v=733m6qBH-jI&t=0s&ab_channel=stanfordonline)
+2. [S. Keshav's paper on how to read research papers](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+3. [Slides of the talk](https://docs.google.com/presentation/d/1wjNc3gdC21llAbS6w1YsF7UuUyXnPXQT6wmljBEtzV8/edit?usp=sharing)
+4. https://towardsdatascience.com/how-you-should-read-research-papers-according-to-andrew-ng-stanford-deep-learning-lectures-98ecbd3ccfb3
+5. https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6
