@@ -12,6 +12,7 @@ comments: true
 
 But why is reading papers considered such an important skill to be learnt ! Why is even reading papers necessary. Let's take on some motivation as to why is reading papers important to keep-up with the latest advances.
 > This article is the summary of a talk that I delivered for the Introductory Paper Reading Session generously supported by [Weights and Biases](https://wandb.ai/site)  whose recorded version can be found here and slides can be found [here](https://docs.google.com/presentation/d/1wjNc3gdC21llAbS6w1YsF7UuUyXnPXQT6wmljBEtzV8/edit?usp=sharing).
+
 ## Dynamically Expanding field of Deep Learning
 The field of deep learning has grown very rapidly in the recent years. We can quantify growth in a field by theh number of papers that come up everyday. Here is an illustration from one of the studies by ArXiv which is one of the platform where almost all of the papers, whether published or unpublished are putup.
 <p align="center" width="100%">
