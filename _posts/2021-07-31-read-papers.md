@@ -3,6 +3,7 @@ layout: post
 title: How to read Machine Learning and Deep Learning Research papers
 date: 2021-07-31 15:09:00
 toc: true
+image: https://github.com/saiamrit/technical-blog/blob/master/images/read_papers_thumb.png
 description: Tips on preparing Literature survey of a field and how to read a ML / DL research papers
 comments: true
 ---
@@ -13,6 +14,9 @@ comments: true
 
 But why is reading papers considered such an important skill to be learnt ! Why is even reading papers necessary. Let's take on some motivation as to why is reading papers important to keep-up with the latest advances.
 > This article is the summary of a talk that I delivered for the Introductory Paper Reading Session generously supported by [Weights and Biases](https://wandb.ai/site)  whose recorded version can be found here and slides can be found [here](https://docs.google.com/presentation/d/1wjNc3gdC21llAbS6w1YsF7UuUyXnPXQT6wmljBEtzV8/edit?usp=sharing).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zi2Tb0YnX0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 The complete video can be found here
 > youtube: https://www.youtube.com/watch?v=Zi2Tb0YnX0s&ab_channel=SaiAmrit
