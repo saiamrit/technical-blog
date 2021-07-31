@@ -39,7 +39,8 @@ From the figure, the number of papers in the field of Computer Science has grown
 
 I hope these give a good idea of how fast the field has been evolving and would continue to evolve even faster in the future. But in this fast evolving field, **How can we keep up with the pace and develop a expertise in the field ?**
 
-Quoting **[Dr. Jennifer Raff](https://anthropology.ku.edu/jennifer-raff)** 
+> Quoting **[Dr. Jennifer Raff](https://anthropology.ku.edu/jennifer-raff)**,
+> 
 >*" To form a truly educated opinion on a scientific subject, you need to become familiar with current research in that field. 
 >And to be able to distinguish between good and bad interpretations of research, you have to be willing and able to read the primary research literature for yourself. "*
 
@@ -92,7 +93,7 @@ Once listed down all the resources and prepared a table like the one shown in fi
 
  2. If that resurce is related to our objective and is relevant and important to us, do a complete full pass reading over the paper. From the references, if we find any other relevant reference then mark those in the original paper and add them to the list and repeat the same over this new paper or resource now.
 
-So after this, this is what the final table might look like
+So after this, this is what the final table might look like this,
 <p align="center" width="100%">
 	<a  href="https://towardsdatascience.com/how-you-should-read-research-papers-according-to-andrew-ng-stanford-deep-learning-lectures-98ecbd3ccfb3"  title="Redirect to homepage">
 		<img width="100%" src="https://raw.githubusercontent.com/saiamrit/technical-blog/master/images/read_papers5.png"> 
@@ -108,7 +109,7 @@ Such a table can be really useful when we return back to it after some months or
 Once decided on which papers to read, this step depends on the individial about they want to go about taking notes. I personally follow a annotation tool to annotate different sections of the paper according to my comfort. I prepare some flow charts for the entire flow of the paper, write some explaining notes on the paper and summarise each paper to the best of my understanding to a github repository. 
 Here I would Like to give a shoutout to Akshay Uppal who had generously shared his [blogpost](https://au1206.github.io/annotated%20paper/mlp_mixer/) with his annotated version of the MLP Mixer paper for the [Weights and Biases paper reading group](https://www.youtube.com/playlist?list=PLD80i8An1OEG_vpqwQgwH1gIxeb9r30u5). I also wish to share one of my [repositories of literature survey](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing) when I started working on the field of face spoofing.
 
-You can use your own ways of making yourself comfortable with the content and taking notes either on github, notion or google docs e.t.c to organise notes. 
+> You can use your own ways of making yourself comfortable with the content and taking notes either on github, notion or google docs e.t.c to organise notes. 
 
 ## Organization of a Paper
 
@@ -129,27 +130,33 @@ Finally coming to the most awaited section of the blogpost !
 Now that we know about the different sections of a paper, to understand how to read a paper, we need to understand how a author writes a paper. The intension of an author writing a paper is to get it accepted at a conference. In conferences, reviewers read all the submissions and take a decision based on the work and the scope and expectations of the conference. Let's have a quick understanding of how the review process works at a very high level.
 
 
-> Warning: Reading a paper sequentially one section after another is not a good option.
+> **Warning:** Reading a paper sequentially one section after another is not a good option.
 
 
 In most of the top conferences, there are two submission deadlines: one, the abstract submission deadline. Second, the actual paper submission deadline. So why exactly are there 2 deadlines ? A separate deadline for abstract even before the actual paper deadline definitely implies that abstract is an important part of the paper. But **Why is abstract important** ? 
+
+> **Note:** While Considering to submit for a conference, always note they have 2 deadlines: One, for abstract submission. Second, for the full paper submission. 
 
 Every year, a lot of papers get submitted to each conference. The number of submissions are in tens of thousands and it is not feasible to read through all the papers irrespective of how many reviewers the conference can have. So to make the review process easier and quicker, there is a guideline how different sections of a paper must be written and the reviewer also reads in that same pattern. 
 
 **The first level of review is always the abstract filtering**. The abstract is supposed to summarise the entire work briefly and it should clearly state the problem statement and the solution very briefly.  If the abstract doesnot satisfy these criterias, the paper gets rejected in this filtering. So the abstract should clearly expain the gist of the work. Hence while reading paper too, the abstract is the place where we can find the gist of the paper clearly and briefly. Hence the abstract is read first to get an overall idea of the entire work. The authors also spend a lot of efforts in getting one figure which gives a visual illustration of the entire approach or a complete flow chart of the entire work. Even this figure contains a gist of the entire method of the paper. The authors try to condense and pack of information about thier work in a single figure. 
 
 
-> The abstract is one of the most important sections in a paper and it explains the entire gist of the paper in brief and the most important figure summarises the method adopted.
+> **Note:** The abstract is one of the most important sections in a paper and it explains the entire gist of the paper in brief and the most important figure summarises the method adopted.
 
 
 The reviewers then read the introduction section as it should explain the problem statement in a detailed way and the main proposal of the paper and the contributions. Immediately after this section, once you know what the paper is assuming, the conclusion section tells about the conclusion of the work and whether the assumptions and expectations presented in the introduction are satisfied or not. 
 
 
-> The introduction section is supposed to explain the problem statement in detail and the major contributions of the paper. We get to know the intent of the author from this section. 
-> The Conclusion section validates the assumptions and propositions given in the introduction through experiments and proofs. 
+> **Note:** The introduction section is supposed to explain the problem statement in detail and the major contributions of the paper. We get to know the intent of the author from this section. 
+
+
+> **Note:** The Conclusion section validates the assumptions and propositions given in the introduction through experiments and proofs. 
 
 
 After validating that the assumed propositions have been validated successfully, the method section is seen in detail to see what approach was taken to acheive the goal. In the discussion section, the experiments are explained as to why exactly the proposed method works. This is basically how a reviewer reads a paper and it is the same approach that is to be taken by a reader like us to read a paper. 
+
+> **Note:** The method and discussion sections explain the approach and experiments done to validate the results.
 
 ## 3 pass approach to read a research paper
 A 3 pass approach is taken to read research papers. The content covered in each passes is in sync with the discussion on the review procedure from last section. Following are the 3 passes:
@@ -172,11 +179,9 @@ The main intension in the first pass is to understand the overall gist of the pa
 	5.  **Clarity**: How clearly does the abstract explain the problem statement and their approach towards it.
 -   Based on our understanding of first pass, we decide weather to go forward or stop with the paper for a detailed study into further passes.
 
-
-> After the first pass, we understand the gist of the paper and get into the intent and thinking of the author.
-
-
 While discussing about literature survey, I mentioned about the 10% study on each resource to figure out if that resource is relevant to us. The 10% basically meant doing a first pass over all the resources.
+
+> **Note:** After the first pass, we understand the gist of the paper and get into the intent and thinking of the author.
 
 ### Second Pass
 
@@ -188,11 +193,11 @@ After getting an overall gist of the paper after the first pass, we headon to th
 -   Mark relevant references that may be required to be revisited later.
 -   Decide weather to go forward or stop based on this pass.
 
-
- > Tip: A second pass is suitable for papers that you are interested but not from your field or is not directly related to your research goal.
-
-
  After the 2nd pass, we have a good understanding of the paper in terms of the method of the paper, experiments and conclusions out of them. Depending on understanding from it, we go on to the next pass.
+ 
+ > **Tip:** A second pass is suitable for papers that you are interested but not from your field or is not directly related to your research goal.
+
+
 ### Third Pass
 After getting a more indepth understanding of the paper after a second pass, we go on to the final pass of reading which is the most detailed pass over the paper. This pass is only for papers which are most important for the research objective and are directly related to the objective we are working on. Following are the key points for a third pass:
 -   Reading with an intention to reimplement the paper. 
@@ -224,27 +229,15 @@ To validate our understanding of the paper, there are a few generic question we 
 - **A few personal questions**:
 	- **What content within the paper is useful to you?** 
 		- Many a times a paper has many key elements which they put together to solve their problem statement. At times your problem statement maybe just a subset of the papers problem set or viceversa or a particular element of the paper may be solving some problem youa re interested into and not the others. So it is important to figure out what part of the paper is useful to you.
-	
 	- **What other references do I need to or want to follow?**
 		- Some sections of the paper may seem complicated or you may need to look at some previous references to understand this work completely. Also you might find some papers from the citations which are also useful to your research. So figure out the necessary references and refer to them.
 
 Being able to answer all these question to the ebst of our understanding and abilities validates our level of understanding of the paper. These questions can also be attempted after the 2nd pass itself and we can check our understanding after the 2nd pass itself. Then again try to answer them after a 3rd pass and judge if our understanding has improved over the 2nd pass or another pass with deeper exploration is again needed. 
 
-> Tip: Nothing teaches better than implementing the entire thing from scratch and experimenting and comparing the results with original results.  Even if a open source implementation is available, experimentation with the opensource code and coming up with own tweeks to the code, running different hyperparameters can improve our understanding a lot.
+> **Tip:** Nothing teaches better than implementing the entire thing from scratch and experimenting and comparing the results with original results.  Even if a open source implementation is available, experimentation with the opensource code and coming up with own tweeks to the code, running different hyperparameters can improve our understanding a lot.
 
 ## Conclusion
-> Finishing with a important note that reading papers is a skill that can be learnt with consistency over a long period of time. It is not a sprint but a  marathon and demands lot of patience and consistency. 
-
-I hope I have been able to justify the title of the blog post and explain everything in detail about how to do literature survey of a domain and how to read an ML / DL research paper. Incase I missed out on anything or you have any other comments, reach me out [@SaiAmritPatnaik](https://twitter.com/SaiAmritPatnaik)
-
-Thank you !
-
-## References
-
-1. Andrew Ng's lecture in CS230 on how to read research papers
-2. S. Keshav's paper on how to read research papers
-3. https://towardsdatascience.com/how-you-should-read-research-papers-according-to-andrew-ng-stanford-deep-learning-lectures-98ecbd3ccfb3
-4. https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6Finishing with a important note that reading papers is a skill that can be learnt with consistency over a long period of time. It is not a sprint but a  marathon and demands lot of patience and consistency. 
+> **Important:** Finishing with a important note that reading papers is a skill that can be learnt with consistency over a long period of time. It is not a sprint but a  marathon and demands lot of patience and consistency. 
 
 I hope I have been able to justify the title of the blog post and explain everything in detail about how to do literature survey of a domain and how to read an ML / DL research paper. Incase I missed out on anything or you have any other comments, reach me out [@SaiAmritPatnaik](https://twitter.com/SaiAmritPatnaik)
 
@@ -255,5 +248,5 @@ Thank you !
 1. [Andrew Ng's lecture in CS230 on how to read research papers](https://www.youtube.com/watch?v=733m6qBH-jI&t=0s&ab_channel=stanfordonline)
 2. [S. Keshav's paper on how to read research papers](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 3. [Slides of the talk](https://docs.google.com/presentation/d/1wjNc3gdC21llAbS6w1YsF7UuUyXnPXQT6wmljBEtzV8/edit?usp=sharing)
-4. https://towardsdatascience.com/how-you-should-read-research-papers-according-to-andrew-ng-stanford-deep-learning-lectures-98ecbd3ccfb3
-5. https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6
+4. [Blog Post 1 on reading Papers](https://towardsdatascience.com/how-you-should-read-research-papers-according-to-andrew-ng-stanford-deep-learning-lectures-98ecbd3ccfb3)
+5. [Blog Post 2 on reading Papers](https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6)
