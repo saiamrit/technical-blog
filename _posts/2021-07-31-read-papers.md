@@ -10,7 +10,7 @@ comments: true
 
 ## Introduction
 
-**How to read a research paper,** is probably the most important skill which any one who is into research or even anyone who wishes to be updated in the field with latest advancements has to master. When someone thinks of starting out in a domain, the first advice that comes is to look for relevant literature in the domain and read papers to develop an understanding of the domain. Papers are the most reliable and updated source of information about a particular domain. A research paper is a result of days of brainstorming of ideas, and structured and systematic experimentation to express an approach.
+**How to read a research paper,** is probably the most important skill which any one who is into research or even anyone who wishes to be updated in the field with latest advancements has to master. When someone thinks of starting out in a domain, the first advice that comes is to look for relevant literature in the domain and read papers to develop an understanding of the domain. `Papers are the most reliable and updated source of information about a particular domain. A research paper is a result of days of brainstorming of ideas, and structured and systematic experimentation to express an approach.`
 
 But why is reading papers considered such an important skill to be learnt ! Why is even reading papers necessary. Let's take on some motivation as to why is reading papers important to keep-up with the latest advances.
 > This article is the summary of a talk that I delivered for the Introductory Paper Reading Session generously supported by [Weights and Biases](https://wandb.ai/site)  whose recorded version can be found here and slides can be found [here](https://docs.google.com/presentation/d/1wjNc3gdC21llAbS6w1YsF7UuUyXnPXQT6wmljBEtzV8/edit?usp=sharing).
@@ -35,21 +35,21 @@ Let's look at another figure from another study by arXiv
 <figcaption align = "center">Fig.2 - Growth of Computer Science Papers on arXiv</figcaption>
 	</a>
 </p>
-From the figure, the number of papers in the field of Computer Science has grown like a steep exponential curveand we see that around 36k papers come out each year out of which around 24k of them as we saw in the previous section are ij the field of ML and DL. We can also see in both the figures that the DL field in Green and CV in yellow are among the dominant areas in terms of percentages of papers coming out every year since the early 2000s while the field of CV has grown and opened up a lot after 2012 probably when the prominent work on [Image classification by deep networks](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) showed significant performance. These studies definitely speak how fast the field of computer Science is growing and amongst it, how the sub areas related to Machine Learning and Deep Learning are evolving too.
+From the figure, the number of papers in the field of Computer Science has grown like a step exponential curve and we see that around 36k papers come out each year out of which around 24k of them as we saw in the previous section are in the field of ML and DL. We can also see in both the figures that the DL field in Green and CV in yellow are among the dominant areas in terms of percentages of papers coming out every year since the early 2000s while the field of CV has grown and opened up a lot after 2012 probably when the prominent work on [Image classification by deep networks](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) showed significant performance. These studies definitely speak how fast the field of computer Science is growing and amongst it, how the sub areas related to Machine Learning and Deep Learning are evolving too.
 
 I hope these give a good idea of how fast the field has been evolving and would continue to evolve even faster in the future. But in this fast evolving field, **How can we keep up with the pace and develop a expertise in the field ?**
 
-> Quoting **[Dr. Jennifer Raff](https://anthropology.ku.edu/jennifer-raff)**,
+> **Quoting** **[Dr. Jennifer Raff](https://anthropology.ku.edu/jennifer-raff)**,
 > 
 >*" To form a truly educated opinion on a scientific subject, you need to become familiar with current research in that field. 
 >And to be able to distinguish between good and bad interpretations of research, you have to be willing and able to read the primary research literature for yourself. "*
 
 ## Why to read research Papers
 
- - **To have a better grasp and understanding of the field:** For a particular field, there may be a lot of video lectures and books but with the rate at which the field has been growing, no book or video lecture can accomodate the latest information as soon as they get published. So research papers provide the most updated and reliable information in the field.
- - **To be able to contribute to the field in terms of novel ideas:** When we start working in a field, the first thing that we are advised to do is to do an extensive literature survey, going through all of the latest papers that have come up in the field till date. That is advised because we can have a very good understanding of the directions of works in the field and how the people actively working in the field are thinking. Only then we can start coming up with our own ideas to experiment upon.
+ - **To have a better grasp and understanding of the field:** For a particular field, there may be a lot of video lectures and books but with the rate at which the field has been growing, `no book or video lecture can accomodate the latest information as soon as they get published. So research papers provide the most updated and reliable information in the field.`
+ - **To be able to contribute to the field in terms of novel ideas:** When we start working in a field, the first thing that we are advised to do is to do an extensive literature survey, going through all of the latest papers that have come up in the field till date. That is advised because `we can have a very good understanding of the directions of works in the field and how the people actively working in the field are thinking by reading papers`. Only then we can start coming up with our own ideas to experiment upon.
  -  **To develop confidence in the field:** Once we start learning about the latest works in the field and we start to develop a good understanding by performing a extensive literature survey, we start developing more confidence to perform more experiments and exploring deeper in the field.
- -  **Most condensed and authentic source of latest knowledge in the field:** A reseach paper comes out of days and months, or some times even years of brainstorming of ideas, performing extensive experiments and validating the expected outcomes. The condensed experiments and thoughts is what is best expressed in a research paper that the authors write. Any new content that comes in the field in terms of state-of-the-art works is through research papers. Research papers are the source through which works that push the limits of knowledge in a field come up.
+ -  **Most condensed and authentic source of latest knowledge in the field:** A reseach paper comes out of days and months, or some times even years of brainstorming of ideas, performing extensive experiments and validating the expected outcomes. `The condensed experiments and thoughts is what is best expressed in a research paper that the authors write.` Any new content that comes in the field in terms of state-of-the-art works is through research papers. Research papers are the source through which works that push the limits of knowledge in a field come up.
 
 **Motivated enough ?**
 
@@ -109,7 +109,7 @@ Such a table can be really useful when we return back to it after some months or
 Once decided on which papers to read, this step depends on the individial about they want to go about taking notes. I personally follow a annotation tool to annotate different sections of the paper according to my comfort. I prepare some flow charts for the entire flow of the paper, write some explaining notes on the paper and summarise each paper to the best of my understanding to a github repository. 
 Here I would Like to give a shoutout to Akshay Uppal who had generously shared his [blogpost](https://au1206.github.io/annotated%20paper/mlp_mixer/) with his annotated version of the MLP Mixer paper for the [Weights and Biases paper reading group](https://www.youtube.com/playlist?list=PLD80i8An1OEG_vpqwQgwH1gIxeb9r30u5). I also wish to share one of my [repositories of literature survey](https://github.com/saiamrit/fake-detection/tree/master/Face%20Anti-spoofing) when I started working on the field of face spoofing.
 
-> You can use your own ways of making yourself comfortable with the content and taking notes either on github, notion or google docs e.t.c to organise notes. 
+> **Tip:** You can use your own ways of making yourself comfortable with the content and taking notes either on github, notion or google docs e.t.c to organise notes. 
 
 ## Organization of a Paper
 
@@ -148,15 +148,10 @@ Every year, a lot of papers get submitted to each conference. The number of subm
 The reviewers then read the introduction section as it should explain the problem statement in a detailed way and the main proposal of the paper and the contributions. Immediately after this section, once you know what the paper is assuming, the conclusion section tells about the conclusion of the work and whether the assumptions and expectations presented in the introduction are satisfied or not. 
 
 
-> **Note:** The introduction section is supposed to explain the problem statement in detail and the major contributions of the paper. We get to know the intent of the author from this section. 
-
-
-> **Note:** The Conclusion section validates the assumptions and propositions given in the introduction through experiments and proofs. 
+> **Note:** The introduction section is supposed to explain the problem statement in detail and the major contributions of the paper. We get to know the intent of the author from this section. The Conclusion section validates the assumptions and propositions given in the introduction through experiments and proofs. 
 
 
 After validating that the assumed propositions have been validated successfully, the method section is seen in detail to see what approach was taken to acheive the goal. In the discussion section, the experiments are explained as to why exactly the proposed method works. This is basically how a reviewer reads a paper and it is the same approach that is to be taken by a reader like us to read a paper. 
-
-> **Note:** The method and discussion sections explain the approach and experiments done to validate the results.
 
 ## 3 pass approach to read a research paper
 A 3 pass approach is taken to read research papers. The content covered in each passes is in sync with the discussion on the review procedure from last section. Following are the 3 passes:
@@ -237,7 +232,7 @@ Being able to answer all these question to the ebst of our understanding and abi
 > **Tip:** Nothing teaches better than implementing the entire thing from scratch and experimenting and comparing the results with original results.  Even if a open source implementation is available, experimentation with the opensource code and coming up with own tweeks to the code, running different hyperparameters can improve our understanding a lot.
 
 ## Conclusion
-> **Important:** Finishing with a important note that reading papers is a skill that can be learnt with consistency over a long period of time. It is not a sprint but a  marathon and demands lot of patience and consistency. 
+`Finishing with a important note that reading papers is a skill that can be learnt with consistency over a long period of time. It is not a sprint but a  marathon and demands lot of patience and consistency.`
 
 I hope I have been able to justify the title of the blog post and explain everything in detail about how to do literature survey of a domain and how to read an ML / DL research paper. Incase I missed out on anything or you have any other comments, reach me out [@SaiAmritPatnaik](https://twitter.com/SaiAmritPatnaik)
 
