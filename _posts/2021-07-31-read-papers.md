@@ -143,7 +143,9 @@ Finally coming to the most awaited section of the blogpost !
 ## How to read a Research Paper 
 Now that we know about the different sections of a paper, to understand how to read a paper, we need to understand how a author writes a paper. The intension of an author writing a paper is to get it accepted at a conference. In conferences, reviewers read all the submissions and take a decision based on the work and the scope and expectations of the conference. Let's have a quick understanding of how the review process works at a very high level.
 
+
 > Warning: Reading a paper sequentially one section after another is not a good option.
+
 
 In most of the top conferences, there are two submission deadlines: one, the abstract submission deadline. Second, the actual paper submission deadline. So why exactly are there 2 deadlines ? A separate deadline for abstract even before the actual paper deadline definitely implies that abstract is an important part of the paper. But **Why is abstract important** ? 
 
@@ -151,11 +153,16 @@ Every year, a lot of papers get submitted to each conference. The number of subm
 
 **The first level of review is always the abstract filtering**. The abstract is supposed to summarise the entire work briefly and it should clearly state the problem statement and the solution very briefly.  If the abstract doesnot satisfy these criterias, the paper gets rejected in this filtering. So the abstract should clearly expain the gist of the work. Hence while reading paper too, the abstract is the place where we can find the gist of the paper clearly and briefly. Hence the abstract is read first to get an overall idea of the entire work. The authors also spend a lot of efforts in getting one figure which gives a visual illustration of the entire approach or a complete flow chart of the entire work. Even this figure contains a gist of the entire method of the paper. The authors try to condense and pack of information about thier work in a single figure. 
 
+
 > The abstract is one of the most important sections in a paper and it explains the entire gist of the paper in brief and the most important figure summarises the method adopted.
 
+
 The reviewers then read the introduction section as it should explain the problem statement in a detailed way and the main proposal of the paper and the contributions. Immediately after this section, once you know what the paper is assuming, the conclusion section tells about the conclusion of the work and whether the assumptions and expectations presented in the introduction are satisfied or not. 
+
+
 > The introduction section is supposed to explain the problem statement in detail and the major contributions of the paper. We get to know the intent of the author from this section. 
 > The Conclusion section validates the assumptions and propositions given in the introduction through experiments and proofs. 
+
 
 After validating that the assumed propositions have been validated successfully, the method section is seen in detail to see what approach was taken to acheive the goal. In the discussion section, the experiments are explained as to why exactly the proposed method works. This is basically how a reviewer reads a paper and it is the same approach that is to be taken by a reader like us to read a paper. 
 
@@ -192,7 +199,10 @@ The main intension in the first pass is to understand the overall gist of the pa
     
 
 -   Based on our understanding of first pass, we decide weather to go forward or stop with the paper for a detailed study into further passes.
+
+
 > After the first pass, we understand the gist of the paper and get into the intent and thinking of the author.
+
 
 While discussing about literature survey, I mentioned about the 10% study on each resource to figure out if that resource is relevant to us. The 10% basically meant doing a first pass over all the resources.
 
@@ -212,7 +222,9 @@ After getting an overall gist of the paper after the first pass, we headon to th
 
 -   Decide weather to go forward or stop based on this pass.
 
+
  > Tip: A second pass is suitable for papers that you are interested but not from your field or is not directly related to your research goal.
+
 
  After the 2nd pass, we have a good understanding of the paper in terms of the method of the paper, experiments and conclusions out of them. Depending on understanding from it, we go on to the next pass.
 ### Third Pass
@@ -264,6 +276,7 @@ To validate our understanding of the paper, there are a few generic question we 
 		- Some sections of the paper may seem complicated or you may need to look at some previous references to understand this work completely. Also you might find some papers from the citations which are also useful to your research. So figure out the necessary references and refer to them.
 
 Being able to answer all these question to the ebst of our understanding and abilities validates our level of understanding of the paper. These questions can also be attempted after the 2nd pass itself and we can check our understanding after the 2nd pass itself. Then again try to answer them after a 3rd pass and judge if our understanding has improved over the 2nd pass or another pass with deeper exploration is again needed. 
+
 > Tip: Nothing teaches better than implementing the entire thing from scratch and experimenting and comparing the results with original results.  Even if a open source implementation is available, experimentation with the opensource code and coming up with own tweeks to the code, running different hyperparameters can improve our understanding a lot.
 
 ## Conclusion
