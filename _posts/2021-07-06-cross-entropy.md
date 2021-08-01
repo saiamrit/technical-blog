@@ -2,7 +2,7 @@
 layout: post
 title: Cross Entropy Demistified
 date: 2021-07-15 15:09:00
-image: images/crss_entropy_thumb.png
+image: images/cross_entropy_thumb.png
 categories: [loss_functions, cross_entropy]
 badges: true
 author: Sai Amrit Patnaik
