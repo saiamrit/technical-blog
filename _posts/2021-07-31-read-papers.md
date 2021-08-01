@@ -44,8 +44,7 @@ I hope these give a good idea of how fast the field has been evolving and would 
 
 **Quoting** **[Dr. Jennifer Raff](https://anthropology.ku.edu/jennifer-raff)**,
 
-> *To form a truly educated opinion on a scientific subject, you need to become familiar with current research in that field. 
->And to be able to distinguish between good and bad interpretations of research, you have to be willing and able to read the primary research literature for yourself.*
+*To form a truly educated opinion on a scientific subject, you need to become familiar with current research in that field. And to be able to distinguish between good and bad interpretations of research, you have to be willing and able to read the primary research literature for yourself.*
 
 ## Why to read research Papers
 
