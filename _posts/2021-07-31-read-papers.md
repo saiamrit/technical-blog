@@ -18,7 +18,7 @@ comments: true
 But why is reading papers considered such an important skill to be learnt ! Why is even reading papers necessary. Let's take on some motivation as to why is reading papers important to keep-up with the latest advances.
 > This article is the summary of a talk that I delivered for the Introductory Paper Reading Session generously supported by [Weights and Biases](https://wandb.ai/site)  whose recorded version can be found here and slides can be found [here](https://docs.google.com/presentation/d/1wjNc3gdC21llAbS6w1YsF7UuUyXnPXQT6wmljBEtzV8/edit?usp=sharing).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zi2Tb0YnX0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="500" src="https://www.youtube.com/embed/Zi2Tb0YnX0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Dynamically Expanding field of Deep Learning
@@ -44,8 +44,8 @@ I hope these give a good idea of how fast the field has been evolving and would 
 
 > **Quoting** **[Dr. Jennifer Raff](https://anthropology.ku.edu/jennifer-raff)**,
 > 
->*" To form a truly educated opinion on a scientific subject, you need to become familiar with current research in that field. 
->And to be able to distinguish between good and bad interpretations of research, you have to be willing and able to read the primary research literature for yourself. "*
+>*To form a truly educated opinion on a scientific subject, you need to become familiar with current research in that field. 
+>And to be able to distinguish between good and bad interpretations of research, you have to be willing and able to read the primary research literature for yourself.*
 
 ## Why to read research Papers
 
