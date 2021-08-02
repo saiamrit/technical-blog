@@ -7,7 +7,7 @@ image: images/read_papers_thumb.png
 categories: [research, reading_papers]
 badges: true
 author: Sai Amrit Patnaik
-description: This post shares tips on preparing Literature survey of a field and how to read a ML / DL research papers. In this post we go over the approach to optimise and prepare literature survey of a domain we wish to work on and discuss about the 3 pass method to read ML or DL research papers.
+description: Tips on preparing Literature survey of a field and how to read a ML / DL research papers. The 3 pass method to read ML or DL research papers is also discussed.
 comments: false
 ---
 
