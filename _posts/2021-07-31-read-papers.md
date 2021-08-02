@@ -1,13 +1,13 @@
 ---
 layout: post
-title: How to do Literature Survey of a domain and How to read Machine Learning and Deep Learning Research papers
+title: How to read Machine Learning and Deep Learning Research papers
 date: 2021-07-31 15:09:00
 toc: true
 image: images/read_papers_thumb.png
 categories: [research, reading_papers]
 badges: true
 author: Sai Amrit Patnaik
-description: Tips on preparing Literature survey of a field and how to read a ML / DL research papers. The 3 pass method to read ML or DL research papers is also discussed.
+description: Tips on preparing Literature survey of a field and how to read a ML / DL research papers. The 3 pass method to read ML or DL research papers is discussed.
 comments: false
 ---
 
