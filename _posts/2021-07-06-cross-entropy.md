@@ -7,7 +7,7 @@ categories: [loss_functions, cross_entropy]
 badges: true
 author: Sai Amrit Patnaik
 description: Understanding the maths behind Cross Entropy Loss
-comments: true
+comments: false
 ---
 
 ## Understanding “Entropy”, “Cross-Entropy Loss” and “KL Divergence”
